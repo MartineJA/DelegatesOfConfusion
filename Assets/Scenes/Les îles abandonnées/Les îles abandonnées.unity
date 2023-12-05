@@ -16749,7 +16749,7 @@ MonoBehaviour:
   fireRate: 3
   cloneNb: 0
   ennemi: {fileID: 11400000, guid: 0c3606ab473fe5249b4bf4cf4f1258da, type: 2}
-  superAttack: {fileID: 0}
+  superAttack: {fileID: 536698327}
 --- !u!1 &1869667575
 GameObject:
   m_ObjectHideFlags: 0

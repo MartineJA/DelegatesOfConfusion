@@ -9,8 +9,8 @@ public class Eventmanager : MonoBehaviour
     public static event GagneOuPerd gagnéOuPerdu;
 
     public EnnemiObject ennemi;
-    /*
-   void OnGUI()
+    
+   /*void OnGUI()
     {
         if (GUI.Button(new Rect(Screen.width / 2 - 50, 5, 100, 30), "Click"))
         {
@@ -19,17 +19,11 @@ public class Eventmanager : MonoBehaviour
         }
     }*/
 
-    private void Update()
+ 
+    void isDead()
     {
-        isDEAD();
-    }
-    void isDEAD()
-    {
-        if (ennemi.score == 10)
-        {
-            if (gagnéOuPerdu != null)
-                gagnéOuPerdu();
-        }
+        if (gagnéOuPerdu != null)
+            gagnéOuPerdu();
     }
 
 
