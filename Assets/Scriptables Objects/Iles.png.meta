@@ -1,0 +1,1387 @@
+fileFormatVersion: 2
+guid: 3640e09aeadf53a4ea8d7c1e0584a428
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 1349
+        height: 629
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -567.5, y: -203.5}
+        - {x: -536.5, y: -27.5}
+        - {x: -456.5, y: 82.5}
+        - {x: -392.5, y: 153.5}
+        - {x: -228.5, y: 201.5}
+        - {x: -77.5, y: 212.5}
+        - {x: 42.5, y: 123.5}
+        - {x: 119.5, y: 149.5}
+        - {x: 303.5, y: 144.5}
+        - {x: 468.5, y: 158.5}
+        - {x: 597.5, y: 214.5}
+        - {x: 663.5, y: 314.5}
+        - {x: -674.5, y: 314.5}
+        - {x: -674.5, y: -288.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ccc69577784ef4f9da0b49bf4fc403
+      internalID: -1482267006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_5
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 0
+        width: 588
+        height: 1000
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116, y: 500}
+        - {x: -103, y: 481}
+        - {x: -49, y: 439}
+        - {x: 60, y: 431}
+        - {x: 73, y: 407}
+        - {x: 117, y: 387}
+        - {x: 159, y: 372}
+        - {x: 187, y: 375}
+        - {x: 191, y: 307}
+        - {x: 176, y: 263}
+        - {x: 178, y: 213}
+        - {x: 145, y: 88}
+        - {x: 164, y: 25}
+        - {x: 226, y: -40}
+        - {x: 234, y: -114}
+        - {x: 204, y: -159}
+        - {x: 197, y: -261}
+        - {x: 143, y: -282}
+        - {x: 120, y: -348}
+        - {x: 74, y: -401}
+        - {x: -33, y: -439}
+        - {x: -113, y: -421}
+        - {x: -211, y: -437}
+        - {x: -272, y: -500}
+        - {x: 294, y: -500}
+        - {x: 294, y: 500}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df94c6544ee9a654fbc94a79995aff02
+      internalID: 1963431159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 574
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c073e610972de4eb523070845b8c02
+      internalID: 1343705972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_13
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 480
+        width: 772
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7d40d0a8e36de498762fadd870c869
+      internalID: 239126453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_14
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 189
+        width: 495
+        height: 678
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15363255bbbc344cafd0e812c6e2f9c
+      internalID: 1502768664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_15
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 632
+        width: 408
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66545f9ef52bb024e84eddfe427d409c
+      internalID: -2098473293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_16
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 25
+        width: 763
+        height: 711
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -237.5, y: -350.5}
+        - {x: -67.5, y: -305.5}
+        - {x: 91.5, y: -323.5}
+        - {x: 137.5, y: -309.5}
+        - {x: 257.5, y: -178.5}
+        - {x: 372.5, y: -66.5}
+        - {x: 380.5, y: 96.5}
+        - {x: 310.5, y: 305.5}
+        - {x: 286.5, y: 355.5}
+        - {x: 204.5, y: 355.5}
+        - {x: 146.5, y: 331.5}
+        - {x: 101.5, y: 181.5}
+        - {x: 38.5, y: 100.5}
+        - {x: -90.5, y: 26.5}
+        - {x: -243.5, y: -47.5}
+        - {x: -305.5, y: -35.5}
+        - {x: -373.5, y: -74.5}
+        - {x: -381.5, y: -288.5}
+        - {x: -343.5, y: -339.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189c9f27f871d7641a6b86b052b3a925
+      internalID: 1512501082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_24
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 14
+        width: 436
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec94b106b5afe94196544646d317436
+      internalID: 109566817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_25
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 251
+        width: 4
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84254498fd5dceb49a16d03e1043e284
+      internalID: 1075712443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 151
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c7ec6229a71464f80d177abc72f623
+      internalID: -1175780909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 150
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db543948d03ae4e40a87eb9cdff21dad
+      internalID: 308943273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_28
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 150
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4009bcf64a125d4283892576183d202
+      internalID: 1481825798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_29
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 151
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577f38ca6937e7c44a688dcc62b118a9
+      internalID: -1373851979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_30
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 150
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f285f8654bf3504a861c41ad4b737b7
+      internalID: -1751229606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_31
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa34e6e4aad9b2458d2587bcb3c417a
+      internalID: -1863779230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_32
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 151
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43ac82410ebd0e4d9d865741f15ddfb
+      internalID: 2063455786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_33
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 152
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b72c1589ee14e41849f8e6a0bf8e80
+      internalID: -1509425036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_34
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 151
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7246b9e789dfff439bff3297ed7d34b
+      internalID: -1576806307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_35
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 153
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dd68ffa44562e4b9bff14fb2f85e27
+      internalID: -1167739477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_36
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 148
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbefc297520ba2a49aca80069bf58162
+      internalID: 418496838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_37
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 147
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f15d94ed3e0d55439c360e610d48aba
+      internalID: -2038574107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1508
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a7a2f2242cf124985bd803e16f42fd
+      internalID: -1316308991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 146
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd102c9ba86515b4ca89343f8e2932ef
+      internalID: 865140337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 145
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ad7c8fa310ea74a93e5af58cba4306
+      internalID: -1856161502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_41
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 147
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069865de9817006418b6b4eb91512a0f
+      internalID: 313821789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_42
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 148
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a19b3abf875dab42a6a11940a817f86
+      internalID: -1570824914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_43
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 144
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee83c2a61df4b3042999763726a020c1
+      internalID: -1716918633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_44
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8458d0b3ba88034a8388f3663e929a6
+      internalID: 2085432056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_45
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832b7127511786a47a4b07b1dc3b4278
+      internalID: 1759608123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 146
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e6b035efbcda4cb572572f45b684d
+      internalID: 807821491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_47
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 146
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160962388f3a961408f690f8ef2fe0b8
+      internalID: -702625501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_48
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 144
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15937a73e8225e4ebd7724e58b462e7
+      internalID: -753522055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_49
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 0
+        width: 857
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.11857993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392f93213cebd9f43a3c7c31a7e452fc
+      internalID: 418836641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_96
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d878e4d993a534bb791392966e7111
+      internalID: 110234462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_97
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca62a8fb8a075b340b1518e36faf0910
+      internalID: -1998024750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_101
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3ca1d408146c94386e49cd14f79776
+      internalID: -803067372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_102
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 8
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e46e93526c37e440bf1470e69229ffe
+      internalID: -697648771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_103
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0d27cc92afab749bd42b85e18b2fde
+      internalID: 674930589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_104
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 12
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0b2411c1e8ec241860b981b013491d
+      internalID: -702354633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_111
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0851d06ed3315942a411d04e3ec8e8f
+      internalID: -1957290586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_112
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519f43bafe9c2954d945103bc0fc903d
+      internalID: 212654899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_113
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef63b8e40edf2e4f86267fa5513163c
+      internalID: -333735499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_114
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 9
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce1a1a6e8593ed4082aceb460f61ce6
+      internalID: 764274700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_115
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 6
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8564c9082591274da51f443a524d8fd
+      internalID: -14908038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_123
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac825c63715c244590a1c47e632ff81
+      internalID: 566022545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_124
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 4
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ded9d81792500f46b960a399b37729d
+      internalID: 1846698397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_125
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618f9fe134207e8499214e422fc0e86c
+      internalID: 1945478866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_126
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea70fcce0ced9f41b774f8c3f3ba74b
+      internalID: 1704832904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_135
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 1
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f40aca54da93148998324e44d6f3b8
+      internalID: -462910893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iles_136
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 0
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4973949464ae30c4da29f84de839c74c
+      internalID: -699144443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Iles_0: -1482267006
+      Iles_1: 913696961
+      Iles_10: 269917312
+      Iles_100: -195189793
+      Iles_101: -803067372
+      Iles_102: -697648771
+      Iles_103: 674930589
+      Iles_104: -702354633
+      Iles_105: -1256139753
+      Iles_106: -1832322735
+      Iles_107: 1392171780
+      Iles_108: -1178493153
+      Iles_109: -624107526
+      Iles_11: -2063729361
+      Iles_110: 1732711316
+      Iles_111: -1957290586
+      Iles_112: 212654899
+      Iles_113: -333735499
+      Iles_114: 764274700
+      Iles_115: -14908038
+      Iles_116: 1875760901
+      Iles_117: 809630422
+      Iles_118: -1023255151
+      Iles_119: -781599535
+      Iles_12: 1343705972
+      Iles_120: -1771828448
+      Iles_121: -1912463831
+      Iles_122: -642841793
+      Iles_123: 566022545
+      Iles_124: 1846698397
+      Iles_125: 1945478866
+      Iles_126: 1704832904
+      Iles_127: -1856608120
+      Iles_128: 21972248
+      Iles_129: 1872282985
+      Iles_13: 239126453
+      Iles_130: -989240571
+      Iles_131: -484821295
+      Iles_132: -2019771170
+      Iles_133: 1411833717
+      Iles_134: 1758662918
+      Iles_135: -462910893
+      Iles_136: -699144443
+      Iles_137: -1557415001
+      Iles_14: 1502768664
+      Iles_15: -2098473293
+      Iles_16: 1512501082
+      Iles_17: -447380912
+      Iles_18: 1240193851
+      Iles_19: 1168230903
+      Iles_2: -1025842707
+      Iles_20: -245138787
+      Iles_21: 486017586
+      Iles_22: 724717371
+      Iles_23: -1277472756
+      Iles_24: 109566817
+      Iles_25: 1075712443
+      Iles_26: -1175780909
+      Iles_27: 308943273
+      Iles_28: 1481825798
+      Iles_29: -1373851979
+      Iles_3: 451997088
+      Iles_30: -1751229606
+      Iles_31: -1863779230
+      Iles_32: 2063455786
+      Iles_33: -1509425036
+      Iles_34: -1576806307
+      Iles_35: -1167739477
+      Iles_36: 418496838
+      Iles_37: -2038574107
+      Iles_38: -1316308991
+      Iles_39: 865140337
+      Iles_4: -1421170748
+      Iles_40: -1856161502
+      Iles_41: 313821789
+      Iles_42: -1570824914
+      Iles_43: -1716918633
+      Iles_44: 2085432056
+      Iles_45: 1759608123
+      Iles_46: 807821491
+      Iles_47: -702625501
+      Iles_48: -753522055
+      Iles_49: 418836641
+      Iles_5: 1963431159
+      Iles_50: -424529053
+      Iles_51: 804955718
+      Iles_52: 427232592
+      Iles_53: 1680975376
+      Iles_54: 1829152561
+      Iles_55: -413058856
+      Iles_56: -340933858
+      Iles_57: -1696458093
+      Iles_58: -1609550937
+      Iles_59: -132111428
+      Iles_6: 1994321911
+      Iles_60: -1380312684
+      Iles_61: -1310637628
+      Iles_62: -986729740
+      Iles_63: -1022323395
+      Iles_64: 598362069
+      Iles_65: -100359451
+      Iles_66: -1715752
+      Iles_67: 603374186
+      Iles_68: 2026699323
+      Iles_69: 979996751
+      Iles_7: 382301724
+      Iles_70: -1744702512
+      Iles_71: 462678652
+      Iles_72: -1385936877
+      Iles_73: 602727590
+      Iles_74: 1209960010
+      Iles_75: 1646566567
+      Iles_76: 2012431162
+      Iles_77: -1254053455
+      Iles_78: -1364356459
+      Iles_79: -218879006
+      Iles_8: 69908312
+      Iles_80: -1806818776
+      Iles_81: -1944883020
+      Iles_82: -1782421354
+      Iles_83: 276119851
+      Iles_84: -1865411088
+      Iles_85: -1487532684
+      Iles_86: -834597766
+      Iles_87: -1008304814
+      Iles_88: 340910061
+      Iles_89: -1289772329
+      Iles_9: 870159625
+      Iles_90: -1857522117
+      Iles_91: -453851476
+      Iles_92: -1746979341
+      Iles_93: -459105480
+      Iles_94: -695115069
+      Iles_95: -785444093
+      Iles_96: 110234462
+      Iles_97: -1998024750
+      Iles_98: -1027260179
+      Iles_99: -1919128359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
